@@ -1,4 +1,5 @@
 ### Welcome!!!
-### git
-	-feature-A
-
+<<<<<<< HEAD
+=======
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+>>>>>>> fix-D
